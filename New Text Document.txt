@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<img src="CareMoreLogo.png" alt="W3Schools.com" width="588" height="105">
+
+<title> The first Page.</title>
+</head>
+<body>
+<h1> Hello in Care More</h1>
+<p>My first paragraph.</p>
+<a href="http://www.caremorehealthsystem.com/">This is a link</a>
+
+</body>
+</html>
